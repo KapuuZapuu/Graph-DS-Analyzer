@@ -7,3 +7,4 @@ C++ file creates an executable when run, from which, the user is presented with 
 5. Prints the shortest path between two specified nodes.
 6. Prints the length between two specified nodes.
 7. Ends program.
+*The program utilizes a manual implementation of the graph data structure and Djikstra's algorithm.
