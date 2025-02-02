@@ -1,4 +1,4 @@
-# Graph Data Strucute Analyzer
+# Graph Data Structure Analyzer
 C++ file creates an executable when run, from which, the user is presented with 7 options, which can be accessed by typing a num 1-7:
 1. Program will read a graph ".txt" file (sample file provided), and then store its data within the program's internal variables
 2. Prints the adjacency list representation of the graph.
