@@ -10,7 +10,7 @@ To use the program:
    * If you are on Windows, use the following guide to help get g++ installed on your machine:
         * https://www3.cs.stonybrook.edu/~alee/g++/g++.html
 3. Navigate to the location of the decompressed folder on your system.
-   * Example: cd ~/Desktop/Graph-DS-Analyzer-main/
+   * Example: cd ~/Downloads/Graph-DS-Analyzer-main/
 4. Compile the program by running the following command:
    * g++ -o graph_application GraphAnalyzer.cpp
 5. Run the program by running the following command:
