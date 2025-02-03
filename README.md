@@ -1,5 +1,5 @@
 # Graph Data Structure Analyzer
-The Graph Analyzer program utilizes a manual implementation of the graph data structure and Djikstra's algorithm-- no external libraries were used to develop any relevant logic. Therefore, no additional dependencies are required to run the program on your system. While this design choice was originally made to fulfill a project requirement, it also makes the program more adaptable to different needs if necessary.
+The Graph Analyzer program utilizes a manual implementation of the graph data structure and Dijkstra's algorithm-- no external libraries were used to develop any relevant logic. Therefore, no additional dependencies are required to run the program on your system. While this design choice was originally made to fulfill a project requirement, it also makes the program more adaptable to different needs if necessary.
 
 To use the program:
 1. Download the .zip file onto your system, and decompress it.
