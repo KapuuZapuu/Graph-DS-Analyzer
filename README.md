@@ -8,7 +8,7 @@ To use the program:
       1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
       2. brew install gcc
 3. Navigate to the location of the decompressed folder on your system.
-   * Example: cd ~/Desktop/awadwidjaiwdjaiwdja/
+   * Example: cd ~/Desktop/Graph-DS-Analyzer-main/
 4. Compile the program by running the following command:
    * g++ -o graph_application GraphAnalyzer.cpp
 5. Run the program by running the following command:
