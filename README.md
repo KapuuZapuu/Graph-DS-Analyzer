@@ -24,6 +24,7 @@ Once in the program, the user is presented with 7 options, which can be accessed
 7. Ends program.
 
 Sample files must adhere to the following format:
+
 n m
 
 i u v w
