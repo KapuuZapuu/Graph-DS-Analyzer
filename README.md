@@ -15,7 +15,7 @@ To use the program:
    * ./graph_application
 
 Once in the program, the user is presented with 7 options, which can be accessed by typing a # 1-7:
-1. Program will read a graph ".txt" file (sample file provided), and then store its data within the program's internal variables
+1. Program will read a graph ".txt" file (sample files provided), and then store its data within the program's internal variables
 2. Prints the adjacency list representation of the graph.
 3. Computes the shortest paths from a single source node using Dijkstra's algorithm method.
 4. Computes the shortest path between two specified nodes.
