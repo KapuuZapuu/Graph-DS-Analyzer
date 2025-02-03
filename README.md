@@ -3,10 +3,12 @@ The Graph Analyzer program utilizes a manual implementation of the graph data st
 
 To use the program:
 1. Download the .zip file onto your system, and decompress it.
-2. Open your system's terminal application, and install g++ using homebrew (if not already installed).
-   * You can install homebrew and g++ by typing the following into your command line:
-      1. /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-      2. brew install gcc
+2. Open your system's terminal application, and install g++ (if not already installed).
+   * You can install g++ on macOS/Linux by typing the following into your command line:
+      1. Homebrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      2. g++: brew install gcc
+   * If you are on Windows, use the following guide to help get g++ installed on your machine:
+        * https://www3.cs.stonybrook.edu/~alee/g++/g++.html
 3. Navigate to the location of the decompressed folder on your system.
    * Example: cd ~/Desktop/Graph-DS-Analyzer-main/
 4. Compile the program by running the following command:
