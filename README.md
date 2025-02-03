@@ -1,4 +1,6 @@
 # Graph Data Structure Analyzer
+The Graph Analyzer program utilizes a manual implementation of the graph data structure and Djikstra's algorithm-- no external libraries were used to develop any relevant logic. Therefore, no additional dependencies are required to run the program on your system. While this design choice was originally made to fulfill a project requirement, it also makes the program more adaptable to different needs if necessary.
+
 To use the program:
 1. Download the .zip file onto your system, and decompress it.
 2. Open your system's terminal application, and install g++ using homebrew (if not already installed).
@@ -21,13 +23,15 @@ Once in the program, the user is presented with 7 options, which can be accessed
 6. Prints the length between two specified nodes.
 7. Ends program.
 
-The program utilizes a manual implementation of the graph data structure and Djikstra's algorithm-- no external libraries were used to develop any relevant logic.
-
 Sample files must adhere to the following format:
 n m
+
 i u v w
+
 i u v w
+
 i u v w
+
 ...
 
 Key:
