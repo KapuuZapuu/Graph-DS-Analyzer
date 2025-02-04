@@ -5,16 +5,16 @@ To use the program (without an IDE):
 1. Download the .zip file onto your system, and decompress it.
 2. Open your system's terminal application, and install g++ (if not already installed).
    * You can install g++ on macOS/Linux by typing the following into your command line:
-      1. Homebrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-      2. g++: brew install gcc
+      1. Homebrew: ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+      2. g++: ```brew install gcc```
    * If you are on Windows, use the following guide to help get g++ installed on your machine:
         * https://www3.cs.stonybrook.edu/~alee/g++/g++.html
 3. Navigate to the location of the decompressed folder on your system.
-   * Example: cd ~/Downloads/Graph-DS-Analyzer-main/
+   * Example: ```cd ~/Downloads/Graph-DS-Analyzer-main/```
 4. Compile the program by running the following command:
-   * g++ -o graph_application GraphAnalyzer.cpp
+   * ```g++ -o graph_application GraphAnalyzer.cpp```
 5. Run the program by running the following command:
-   * ./graph_application
+   * ```./graph_application```
 
 Once in the program, the user is presented with 7 options, which can be accessed by typing a # 1-7:
 1. Program will read a graph ".txt" file (sample files provided), and then store its data within the program's internal variables
